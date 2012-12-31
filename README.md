@@ -15,4 +15,6 @@ So here will .apk's reside built for mips target. (not mips-r2).
 Downloads
 =========
 
-https://github.com/i-rinat/mips-apk/downloads
+~~https://github.com/i-rinat/mips-apk/downloads~~
+
+http://i-rinat.org/mips-apk/
